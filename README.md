@@ -1,4 +1,4 @@
-# 500 XSS Payload'ları
+# 200 XSS Payload'ları
 
 ## Basit Script Payload'ları
 1. `<script>alert('XSS')</script>`
